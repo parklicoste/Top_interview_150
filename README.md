@@ -7,3 +7,4 @@ Leetcode top 150 interview questions solved <br>
 21. Merge Two Sorted Lists <br>
 121. Best time to Suy and Sell Stock <br>
 57. Insert interval <br>
+15. 3Sum <br>
