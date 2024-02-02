@@ -1,7 +1,7 @@
 /*
 Leetcode 150 Interview Questions
 
-88. Two Sum
+1. Two Sum
 
 */
 
