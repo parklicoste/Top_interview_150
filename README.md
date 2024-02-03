@@ -9,3 +9,4 @@ Leetcode top 150 interview questions solved <br>
 57. Insert interval <br>
 15. 3Sum <br>
 238. Product of Array except Self <br>
+56. Merge Intervals <br>
