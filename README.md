@@ -10,3 +10,4 @@ Leetcode top 150 interview questions solved <br>
 15. 3Sum <br>
 238. Product of Array except Self <br>
 56. Merge Intervals <br>
+169. Majority Element <br>
