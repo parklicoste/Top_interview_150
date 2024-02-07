@@ -19,3 +19,4 @@ Leetcode top 150 interview questions solved <br>
 3. Longest Substring Without Repeating Characters <br>
 54. Spiral Matrix <br>
 33. Search in Rotated Sorted Array <br>
+5. Longest Palindromic substring <br>
